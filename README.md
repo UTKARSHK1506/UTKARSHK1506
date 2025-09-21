@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Utkarsh Kulshrestha! 🚀</h1>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-link)](https://linkedin.com/in/utkarsh-k-15161532a)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/your-username)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/your-username)](https://github.com/UTKARSHK1506)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yourmail@example.com)](mailto:utkarshk1506@gmail.com)
 ![AI/ML](http://img.shields.io/badge/-AI%2FML%20Enthusiast-orange?style=flat&logo=openai&logoColor=ffffff)
 
@@ -69,6 +69,6 @@ I’m always eager to learn, grow, and collaborate with like-minded individuals 
 ---
 
 
-⭐ From [@UtkarshKulshrestha](https://github.com/utkarshk1506)
+⭐ From [@UtkarshKulshrestha](https://github.com/UTKARSHK1506)
 
 
