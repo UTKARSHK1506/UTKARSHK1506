@@ -5,7 +5,10 @@
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yourmail@example.com)](mailto:utkarshk1506@gmail.com)
 ![AI/ML](http://img.shields.io/badge/-AI%2FML%20Enthusiast-orange?style=flat&logo=openai&logoColor=ffffff)
 
-<p align="center"> ✨ <b><a href="#">Portfolio</a> / <a href="#">Resume</a> / <a href="#">Projects</a></b> ✨ </p>
+<p align="center">
+  <b><a href="#">Portfolio ✨</a></b>
+</p>
+
 
 ---
 
