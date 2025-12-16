@@ -62,7 +62,7 @@ I’m always eager to learn, grow, and collaborate with like-minded individuals 
 ---
 
 ## 🚀 Featured Projects
-🔹 JARVIS – Built using Python, speech recognition, NLP, and AI models, this voice-commanded multimodal assistant supports text & image generation, bidirectional speech processing, intelligent search, and task automation. It demonstrates practical implementation of real-time AI and automation workflows.
+🔹 JARVIS – Built using Python, speech recognition, NLP, and AI models, this voice-commanded multimodal assistant supports text & image generation, bidirectional speech processing, intelligent search, and task automation. 
 
 🔹 House Price Predictor – A Machine Learning regression project that predicts house prices based on features like location, area, number of bedrooms, and more. Built using Python, pandas, scikit-learn, and Matplotlib for data preprocessing, model training, and visualization.
 
