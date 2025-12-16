@@ -62,12 +62,11 @@ I’m always eager to learn, grow, and collaborate with like-minded individuals 
 ---
 
 ## 🚀 Featured Projects
+🔹 JARVIS – Built using Python, speech recognition, NLP, and AI models, this voice-commanded multimodal assistant supports text & image generation, bidirectional speech processing, intelligent search, and task automation. It demonstrates practical implementation of real-time AI and automation workflows.
 
-- 🔹 **Interview Chatbot** – Built using **Python**, **Streamlit**, and the **OpenAI API**, this project simulates a real-world interview experience by asking questions, evaluating responses, and providing feedback. It’s designed to help users practice interviews in a conversational and interactive way.  
+🔹 House Price Predictor – A Machine Learning regression project that predicts house prices based on features like location, area, number of bedrooms, and more. Built using Python, pandas, scikit-learn, and Matplotlib for data preprocessing, model training, and visualization.
 
-- 🔹 **House Price Predictor** – A **Machine Learning regression project** that predicts house prices based on features like location, area, number of bedrooms, and more. Built using **Python**, **pandas**, **scikit-learn**, and **Matplotlib** for data preprocessing, model training, and visualization.  
-
-- 🔹 **Loan Repayment Predictor** – A **Machine Learning classification project** that predicts whether a loan will be repaid on time based on applicant and loan data. Implemented using **Python**, **pandas**, **scikit-learn**, and **Matplotlib**, with data preprocessing, feature engineering, and model evaluation for accurate predictions.  
+🔹 Interview Chatbot – Built using Python, Streamlit, and the Groq API, this project simulates a real-world interview experience by asking questions, evaluating responses, and providing feedback. It’s designed to help users practice interviews in a conversational and interactive way.
 
 ---
 
